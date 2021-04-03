@@ -56,7 +56,7 @@ class App extends React.Component {
                     <div style={{flex:1}}>
                     <button className="btn btn-sm btn-outline-info">Edit</button>
                     </div><div>
-                      <button className="btn btn-sm btn-outline-dark delete">X</button>
+                      <button className="btn btn-sm btn-outline-dark delete">..</button>
                     </div>
                     
                     </div>
